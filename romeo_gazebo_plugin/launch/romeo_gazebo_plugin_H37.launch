@@ -5,7 +5,7 @@
   <!-- We resume the logic in empty_world.launch, changing only the name of the world to be launched -->
 <!--  <include file="$(find gazebo_ros)/launch/empty_world.launch">  -->
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <!--arg name="world_name" value="$(find romeo_gazebo_plugin)/worlds/romeoFoot.world"/-->
+    <arg name="world_name" value="$(find romeo_gazebo_plugin)/worlds/romeoFoot.world"/>
     <arg name="paused" value="true"/>
     <arg name="verbose" value="true"/>
   </include>
