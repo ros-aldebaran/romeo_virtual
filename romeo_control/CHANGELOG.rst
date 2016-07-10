@@ -2,6 +2,11 @@
 Changelog for package romeo_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Delete .romeo_trajectory_control_full.launch.swp
+* Contributors: Mikael Arguedas
+
 0.2.1 (2016-07-08)
 ------------------
 * clean version and changelogs for next release
