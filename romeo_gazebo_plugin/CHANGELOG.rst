@@ -2,8 +2,8 @@
 Changelog for package romeo_gazebo_plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.2 (2016-07-10)
+------------------
 * removing an unused launch file
 * Contributors: Natalia Lyubova
 
