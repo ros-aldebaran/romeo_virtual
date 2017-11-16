@@ -2,6 +2,9 @@
 Changelog for package romeo_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.2.2 (2016-07-10)
 ------------------
 * Delete .romeo_trajectory_control_full.launch.swp
