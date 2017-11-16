@@ -2,8 +2,8 @@
 Changelog for package romeo_gazebo_plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.3 (2017-11-16)
+------------------
 * Merge pull request `#1 <https://github.com/ros-aldebaran/romeo_virtual/issues/1>`_ from ros-aldebaran/mikaelarguedas-clone-using-https-in-readme
   [romeo_gazebo_plugin/README.rst] clone using https
 * [romeo_gazebo_plugin/README.rst] clone using https
